@@ -49,7 +49,6 @@
 ****************************************************************************/
 
 #include "fboinsgrenderer.h"
-#include "logorenderer.h"
 
 #include <QOpenGLFramebufferObject>
 
